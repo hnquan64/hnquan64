@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Quan</h1>
 <h3 align="center">Student at University of Information Technology - Ho Chi Minh National University</h3>
 
-- 🔭 I’m currently working on **GSOFT**
+- 🔭 I’m currently working on **Be Earning**
 
 - 🌱 I’m currently learning **Golang Developer**
 
