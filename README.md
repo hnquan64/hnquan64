@@ -3,9 +3,11 @@
 
 - 🔭 I’m currently working on **Be Earning**
 
-- 🌱 I’m currently learning **Golang Developer**
+- 🌱 I’m currently working with the position **Golang Developer**
 
 - 👯 I’m looking to collaborate on **Ho Chi Minh City**
+
+- 👯 I’m currently live in  **Ho Chi Minh City**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hnquan64](https://github.com/hnquan64)
 
